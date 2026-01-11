@@ -71,7 +71,7 @@ If you have questions about these implementations, want to discuss Go architectu
 
 - **Email:** [Bharattsingh33@gmail.com](mailto:Bharattsingh33@gmail.com)
     
-- **LinkedIn:** [linkedin.com/BharatSinghRajput](https://www.linkedin.com/in/bharat-singh-1288a4254)
+- **LinkedIn:** [linkedin.com/BharatSinghRajput](https://www.linkedin.com/in/bharat-singh-rajput-1288a4254)
     
 - **GitHub Issues:** Feel free to open an issue in this repository for technical discussions.
 
