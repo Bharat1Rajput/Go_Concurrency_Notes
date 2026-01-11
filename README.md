@@ -25,7 +25,7 @@ This repository contains detailed notes, architectural breakdowns, and code exam
 
 To see these concepts applied in a real-world pattern, check out my standalone project:
 
-👉 **[Worker-Pool-Project](https://www.google.com/search?q=https://github.com/Bharat1Rajput/go-worker-pool)** _A high-performance implementation of a fixed-size worker pool designed to handle intensive job processing while limiting resource consumption._
+👉 **[Worker-Pool-Project](https://github.com/Bharat1Rajput/go-worker-pool)** _A high-performance implementation of a fixed-size worker pool designed to handle intensive job processing while limiting resource consumption._
 
 ---
 
